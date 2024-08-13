@@ -1,0 +1,491 @@
+{
+    "lecturers": [
+      {
+        "name": "Ferry Faisal, S.ST., M.T.",
+        "nip": "19730206 199501 1 001",
+        "department": "Teknik Informatika",
+        "program_study": "Informatika",
+        "mata_kuliah": [
+          {
+            "name": "Web Design",
+            "classes": ["4A", "4B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-10",
+                "mainTopic": "Introduction to Web Design",
+                "subTopic": "HTML and CSS Basics",
+                "absent": { "sick": [2], "permit": [5], "absent": [7] },
+                "teachingMedia": "Slides, Whiteboard",
+                "signature": "signature_ferry_1.png"
+              }
+            ]
+          },
+          {
+            "name": "Pemrograman Dasar",
+            "classes": ["1A", "1B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-12",
+                "mainTopic": "Pengenalan Pemrograman",
+                "subTopic": "Dasar-dasar Pemrograman",
+                "absent": { "sick": [1], "permit": [4], "absent": [6] },
+                "teachingMedia": "Slides, IDE",
+                "signature": "signature_ferry_2.png"
+              }
+            ]
+          },
+          {
+            "name": "Basis Data",
+            "classes": ["3A", "3B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-14",
+                "mainTopic": "Pengantar Basis Data",
+                "subTopic": "Model Relasional",
+                "absent": { "sick": [3], "permit": [8], "absent": [9] },
+                "teachingMedia": "Slides, Database Tool",
+                "signature": "signature_ferry_3.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Yasir Arafat, S.ST., M.T.",
+        "nip": "19720304 199501 1 001",
+        "department": "Teknik Informatika",
+        "program_study": "Informatika",
+        "mata_kuliah": [
+          {
+            "name": "Jaringan Komputer",
+            "classes": ["2A", "2B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-15",
+                "mainTopic": "Pengantar Jaringan Komputer",
+                "subTopic": "Topologi Jaringan",
+                "absent": { "sick": [2], "permit": [3], "absent": [7] },
+                "teachingMedia": "Slides, Lab",
+                "signature": "signature_yasir_1.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mariana Syamsudin, S.T., M.T.",
+        "nip": "19750314 200604 2 001",
+        "department": "Teknik Informatika",
+        "program_study": "Informatika",
+        "mata_kuliah": [
+          {
+            "name": "Pemrograman Berorientasi Objek",
+            "classes": ["3A", "3B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-16",
+                "mainTopic": "Dasar-dasar OOP",
+                "subTopic": "Konsep Kelas dan Objek",
+                "absent": { "sick": [1], "permit": [6], "absent": [4] },
+                "teachingMedia": "Slides, IDE",
+                "signature": "signature_mariana_1.png"
+              }
+            ]
+          },
+          {
+            "name": "Rekayasa Perangkat Lunak",
+            "classes": ["4A", "4B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-17",
+                "mainTopic": "Pengantar RPL",
+                "subTopic": "Siklus Hidup Pengembangan Perangkat Lunak",
+                "absent": { "sick": [3], "permit": [5], "absent": [8] },
+                "teachingMedia": "Slides, Whiteboard",
+                "signature": "signature_mariana_2.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Suheri, S.T., M.Cs.",
+        "nip": "19830717 200812 1 005",
+        "department": "Teknik Informatika",
+        "program_study": "Informatika",
+        "mata_kuliah": [
+          {
+            "name": "Sistem Informasi",
+            "classes": ["4A", "4B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-18",
+                "mainTopic": "Pengantar Sistem Informasi",
+                "subTopic": "Komponen Sistem Informasi",
+                "absent": { "sick": [2], "permit": [6], "absent": [7] },
+                "teachingMedia": "Slides, Whiteboard",
+                "signature": "signature_suheri_1.png"
+              }
+            ]
+          },
+          {
+            "name": "Manajemen Proyek",
+            "classes": ["4C", "4D"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-19",
+                "mainTopic": "Dasar-dasar Manajemen Proyek",
+                "subTopic": "Perencanaan dan Pengendalian Proyek",
+                "absent": { "sick": [1], "permit": [4], "absent": [3] },
+                "teachingMedia": "Slides, Whiteboard",
+                "signature": "signature_suheri_2.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Freska Rolansa, S.T., M.Cs.",
+        "nip": "19860319 200812 1 002",
+        "department": "Teknik Informatika",
+        "program_study": "Informatika",
+        "mata_kuliah": [
+          {
+            "name": "Analisis Data",
+            "classes": ["4A", "4B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-20",
+                "mainTopic": "Pengantar Analisis Data",
+                "subTopic": "Metodologi Pengumpulan Data",
+                "absent": { "sick": [3], "permit": [5], "absent": [8] },
+                "teachingMedia": "Slides, Whiteboard",
+                "signature": "signature_freska_1.png"
+              }
+            ]
+          },
+          {
+            "name": "Pemrograman Mobile",
+            "classes": ["3A", "3B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-21",
+                "mainTopic": "Pengenalan Pemrograman Mobile",
+                "subTopic": "Dasar-dasar Android Studio",
+                "absent": { "sick": [2], "permit": [6], "absent": [7] },
+                "teachingMedia": "Slides, IDE",
+                "signature": "signature_freska_2.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Budianingsih, S.T., M.T.",
+        "nip": "19801102 201212 2 003",
+        "department": "Teknik Informatika",
+        "program_study": "Informatika",
+        "mata_kuliah": [
+          {
+            "name": "Keamanan Jaringan",
+            "classes": ["3A", "3B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-22",
+                "mainTopic": "Pengantar Keamanan Jaringan",
+                "subTopic": "Enkripsi dan Dekripsi",
+                "absent": { "sick": [1], "permit": [4], "absent": [5] },
+                "teachingMedia": "Slides, Lab",
+                "signature": "signature_budianingsih_1.png"
+              }
+            ]
+          },
+          {
+            "name": "Komputasi Awan",
+            "classes": ["4A", "4B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-23",
+                "mainTopic": "Pengantar Komputasi Awan",
+                "subTopic": "Layanan Cloud",
+                "absent": { "sick": [2], "permit": [7], "absent": [8] },
+                "teachingMedia": "Slides, Whiteboard",
+                "signature": "signature_budianingsih_2.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Muhammad Hasbi, S.T., M.T.",
+        "nip": "19821105 201404 1 014",
+        "department": "Teknik Informatika",
+        "program_study": "Informatika",
+        "mata_kuliah": [
+          {
+            "name": "Data Mining",
+            "classes": ["4A", "4B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-24",
+                "mainTopic": "Pengantar Data Mining",
+                "subTopic": "Klasifikasi dan Klasterisasi",
+                "absent": { "sick": [3], "permit": [5], "absent": [9] },
+                "teachingMedia": "Slides, Lab",
+                "signature": "signature_hasbi_1.png"
+              }
+            ]
+          },
+          {
+            "name": "Kecerdasan Buatan",
+            "classes": ["4C", "4D"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-25",
+                "mainTopic": "Dasar-dasar AI",
+                "subTopic": "Algoritma Pembelajaran Mesin",
+                "absent": { "sick": [2], "permit": [6], "absent": [8] },
+                "teachingMedia": "Slides, Whiteboard",
+                "signature": "signature_hasbi_2.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Neny Firdyanti, S.T., M.T.",
+        "nip": "19771002 201404 2 001",
+        "department": "Teknik Informatika",
+        "program_study": "Informatika",
+        "mata_kuliah": [
+          {
+            "name": "Pengantar Teknik Informatika",
+            "classes": ["1A", "1B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-26",
+                "mainTopic": "Sejarah Informatika",
+                "subTopic": "Pengenalan Dasar-dasar Informatika",
+                "absent": { "sick": [3], "permit": [7], "absent": [9] },
+                "teachingMedia": "Slides, Whiteboard",
+                "signature": "signature_neny_1.png"
+              }
+            ]
+          },
+          {
+            "name": "Pemrograman Sistem",
+            "classes": ["2A", "2B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-27",
+                "mainTopic": "Dasar-dasar Pemrograman Sistem",
+                "subTopic": "Pemrograman Low-Level",
+                "absent": { "sick": [2], "permit": [6], "absent": [8] },
+                "teachingMedia": "Slides, IDE",
+                "signature": "signature_neny_2.png"
+              }
+            ]
+          },
+          {
+            "name": "Basis Data",
+            "classes": ["3A", "3B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-28",
+                "mainTopic": "Model Data",
+                "subTopic": "ERD dan Relasi",
+                "absent": { "sick": [1], "permit": [5], "absent": [7] },
+                "teachingMedia": "Slides, Database Tool",
+                "signature": "signature_neny_3.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Fitri Wibowo, S.S.T., M.T.",
+        "nip": "19851228 201504 1 002",
+        "department": "Teknik Informatika",
+        "program_study": "Informatika",
+        "mata_kuliah": [
+          {
+            "name": "Jaringan Komputer",
+            "classes": ["2A", "2B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-29",
+                "mainTopic": "Pengantar Jaringan Komputer",
+                "subTopic": "Model OSI",
+                "absent": { "sick": [1], "permit": [4], "absent": [6] },
+                "teachingMedia": "Slides, Lab",
+                "signature": "signature_fitri_1.png"
+              }
+            ]
+          },
+          {
+            "name": "Pemrograman Web Lanjut",
+            "classes": ["3A", "3B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-30",
+                "mainTopic": "HTML5 and CSS3 Advanced",
+                "subTopic": "Responsive Web Design",
+                "absent": { "sick": [2], "permit": [5], "absent": [7] },
+                "teachingMedia": "Slides, IDE",
+                "signature": "signature_fitri_2.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pausta Yugianus, S.kom., M.T.",
+        "nip": "19880920 201504 1 003",
+        "department": "Teknik Informatika",
+        "program_study": "Informatika",
+        "mata_kuliah": [
+          {
+            "name": "Sistem Informasi Geografis",
+            "classes": ["4A", "4B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-01-31",
+                "mainTopic": "Dasar-dasar SIG",
+                "subTopic": "Pemetaan dan Analisis Ruang",
+                "absent": { "sick": [3], "permit": [6], "absent": [9] },
+                "teachingMedia": "Slides, Lab",
+                "signature": "signature_pausta_1.png"
+              }
+            ]
+          },
+          {
+            "name": "Pemrograman Game",
+            "classes": ["3A", "3B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-02-01",
+                "mainTopic": "Pengenalan Pemrograman Game",
+                "subTopic": "Dasar-dasar Unity",
+                "absent": { "sick": [2], "permit": [7], "absent": [8] },
+                "teachingMedia": "Slides, IDE",
+                "signature": "signature_pausta_2.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tri Bowo Atmojo, S.T., M.Cs.",
+        "nip": "19840717 201903 1 010",
+        "department": "Teknik Informatika",
+        "program_study": "Informatika",
+        "mata_kuliah": [
+          {
+            "name": "Pemrograman Dasar",
+            "classes": ["1A", "1B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-02-02",
+                "mainTopic": "Dasar-dasar Pemrograman",
+                "subTopic": "Pemrograman Kondisional",
+                "absent": { "sick": [1], "permit": [5], "absent": [3] },
+                "teachingMedia": "Slides, IDE",
+                "signature": "signature_tri_1.png"
+              }
+            ]
+          },
+          {
+            "name": "Pengolahan Citra",
+            "classes": ["4A", "4B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-02-03",
+                "mainTopic": "Pengantar Pengolahan Citra",
+                "subTopic": "Dasar-dasar Image Processing",
+                "absent": { "sick": [2], "permit": [6], "absent": [8] },
+                "teachingMedia": "Slides, Lab",
+                "signature": "signature_tri_2.png"
+              }
+            ]
+          },
+          {
+            "name": "Grafika Komputer",
+            "classes": ["4C", "4D"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-02-04",
+                "mainTopic": "Dasar-dasar Grafika Komputer",
+                "subTopic": "Pengenalan OpenGL",
+                "absent": { "sick": [3], "permit": [7], "absent": [9] },
+                "teachingMedia": "Slides, IDE",
+                "signature": "signature_tri_3.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lindung Siswanto, S.T., M.T.",
+        "nip": "19800321 201812 1 001",
+        "department": "Teknik Informatika",
+        "program_study": "Informatika",
+        "mata_kuliah": [
+          {
+            "name": "Sistem Operasi",
+            "classes": ["2A", "2B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-02-05",
+                "mainTopic": "Pengantar Sistem Operasi",
+                "subTopic": "Manajemen Memori",
+                "absent": { "sick": [1], "permit": [4], "absent": [5] },
+                "teachingMedia": "Slides, Lab",
+                "signature": "signature_lindung_1.png"
+              }
+            ]
+          },
+          {
+            "name": "Rekayasa Perangkat Lunak",
+            "classes": ["4A", "4B"],
+            "bap": [
+              {
+                "bapNumber": 1,
+                "date": "2024-02-06",
+                "mainTopic": "Pengantar RPL",
+                "subTopic": "Metodologi Pengembangan Perangkat Lunak",
+                "absent": { "sick": [2], "permit": [5], "absent": [6] },
+                "teachingMedia": "Slides, Whiteboard",
+                "signature": "signature_lindung_2.png"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
